@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -129,15 +129,16 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpanN3VEhaeTBEUVE\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpNk8ydml3cERCRVU\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>PRINT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
         },
         {
+          "_inherit": "header1",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-b",
+          "_name": "header4",
+          "_anchor": "header4-c",
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -150,14 +151,14 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
+            "contentAlign": "right",
             "showTitle": false,
             "showText": false,
             "showButtons": false
           },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "title": "VIDEO BACKGROUND",
+          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
