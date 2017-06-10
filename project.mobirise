@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9,
+    "uniqCompNum": 10,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -132,6 +132,32 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "image2",
+          "_anchor": "image2-9",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/Dz8X_AT_fmQ",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "slider",
           "_styles": {
             "H2": {
@@ -150,21 +176,6 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/visual-skills-2000x1006-1.png",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/Dz8X_AT_fmQ",
-                "overlay": false,
-                "overlayOpacity": "0.3",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Grafik<br>Fotograf<br>Web Developer",
-                "showText": false,
-                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/visual-skills-2000x1006-1.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -549,7 +560,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text1": "<div><b style=\"font-size: 1.07rem; line-height: 1.5;\">DOŚWADCZENIE ZAWODOWE:</b><br></div><div><b><br><br></b></div><ul><li><b>2012 – 2015</b>&nbsp;Grafik, fotograf, video producent dla Shooshh (Brighton, UK) - do moich obowiązków należało projektowanie plakatów, logo, naklejek, bannerów, produkcja video. Zbudowałem kilka stron WWW.<br></li></ul><p><br></p><ul><li><b>2010 -2012</b>\nPraca jako grafik/fotograf dla firmy Decare zajmującej \u0003się dystrybucją egzotycznej żywności.&nbsp;Do moich obowiązków należało tworzenie reklam, zdjęć packshot, POS'ów, projektowanie logo oraz opakowań (w tym pudełek), prezentacji, katalogów, bannerów oraz przygotowanie materiałów do druku (DTP)<br><br></li></ul><ul><li><b>2007 - 2009</b> \nPraca dla wydawnictwa Valkea Media - skład /łamanie magazynu \u0003Aktivist, fotografia koncertowa, byłem autorem wielu okładek Aktivista.<br><br></li><li><b>2006 - 2007</b> Red Bull Polska Sp. Zoo - Event/PR Manager - organizacja eventów sportowych wg. wytycznych założeń marketingu, w tym formy wizualnej. Współpraca na poziomie PR z mediami, aktualizacja informacji na stronie WWW. Współpraca i opieka nad sportowcami. Sprawozdania z budżetu.</li></ul><p><br></p><ul><li><b>2000 - 2005</b> \nPoczątkowo Sekretarz Redakcji, następnie \u0003Redaktor Naczelny miesięcznika “DosDedos”. Pozyskiwanie materiałów \u0003do magazynu, współpraca z działem marketingu, koordynowanie pracy innych redaktorów, edycja i korekta tekstów, sprzedaż reklam oraz działania z zakresu PR.</li></ul><p><br></p>",
+          "text1": "<div><b style=\"font-size: 1.07rem; line-height: 1.5;\">DOŚWADCZENIE ZAWODOWE:</b><br></div><div><b><br><br></b></div><ul><li><b>2012 – 2015</b>&nbsp;Grafik, fotograf, video producent dla Shooshh (Brighton, UK) - do moich obowiązków należało projektowanie plakatów, logo, naklejek, bannerów, <b>filmowanie oraz edycja video</b>. Zbudowałem kilka stron WWW.<br></li></ul><p><br></p><ul><li><b>2010 -2012</b>\nPraca jako grafik/fotograf dla firmy Decare zajmującej \u0003się dystrybucją egzotycznej żywności.&nbsp;Do moich obowiązków należało tworzenie reklam, zdjęć packshot, POS'ów, projektowanie logo oraz opakowań (w tym pudełek), prezentacji, katalogów, bannerów oraz przygotowanie materiałów do druku (DTP)<br><br></li></ul><ul><li><b>2007 - 2009</b> \nPraca dla wydawnictwa Valkea Media - skład /łamanie magazynu \u0003Aktivist, fotografia koncertowa, byłem autorem wielu okładek Aktivista.<br><br></li><li><b>2006 - 2007</b> Red Bull Polska Sp. Zoo - Event/PR Manager - organizacja eventów sportowych wg. wytycznych założeń marketingu, w tym formy wizualnej. Współpraca na poziomie PR z mediami, aktualizacja informacji na stronie WWW. Współpraca i opieka nad sportowcami. Sprawozdania z budżetu.</li></ul><p><br></p><ul><li><b>2000 - 2005</b> \nPoczątkowo Sekretarz Redakcji, następnie \u0003Redaktor Naczelny miesięcznika “DosDedos”. Pozyskiwanie materiałów \u0003do magazynu, współpraca z działem marketingu, koordynowanie pracy innych redaktorów, edycja i korekta tekstów, sprzedaż reklam oraz działania z zakresu PR.</li></ul><p><br></p>",
           "text2": "<div></div><div><b>EDUKACJA:</b></div><div><b><br></b></div><div><b><br></b></div><ul><li><b>2017 - Obecnie </b>Codecademy.com, Coursera.org, Courses.edx.org, Stackoverflow.com, W3schools.com<br>Nauka programowania Online w języku angielskim.<br><br></li><li><b>2006 - 2008</b>  Akademia Fotografii w Warszawie Kurs Zaawansowany - Nauczyłem się: organizować pracę w studio, obsługiwać profesjonalny sprzęt studyjny (lampy, generatory, końcówki modelujące), używać światłomierza \u0003(pomiary światła zastanego, ciągłego, wyładowczego), wykorzystywać różne rodzaje światła \u0003w celu uzyskania określonych efektów&nbsp;<br><br></li><li><b>2002 - 2005\n</b>Wyższa Szkoła Komunikowania i Mediów Społecznych \u0003im.Jerzego Giedroycia w Warszawie, kierunek politologia \u0003(specjalizacja dziennikarstwo) - Licencjat .<br><br></li><li><b>2000 - 2002</b>&nbsp;Państwowe Studium Stenotypii i Języków Obcych<br>Uczyłęm się tam szybkiego pisania na klawiaturze, poprawnego pisania korespondencji w językach obcych (angielski, niemiecki).<br><br></li></ul><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">INNE:</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\"><br></b></p><ul><li>Sport (bieganie, jazda na rowerze/longboardzie, pływanie)</li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Posiadam prawo jazdy kategorii B. patent ratownika WOPR</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Laptop Dell i7 (8GB Ram, 256 SSD) + Adobe CS 6</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Canon 5D Mark II / 7D + 100/150 mm f/2 + 28/42 mm f/1.8</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Biegła znajomość języka angielskiego</b> w mowie i piśmie<br></span></li></ul>"
         },
         {
