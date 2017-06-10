@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 16,
+    "uniqCompNum": 35,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -125,8 +125,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"developer_eng#msg-box5-19\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CV Jan Szymański</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpanN3VEhaeTBEUVE\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpNk8ydml3cERCRVU\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>PRINT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"developer_eng\">ENGLISH VERSION</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#msg-box5-2\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CV Jan Szymański</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpTVY5WDRhWWZma0k\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpdnFqMk9kUWd3TU0\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>PRINT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"motion_eng\">ENGLISH VERSION</a></li>"
         },
         {
           "_tags": [
@@ -150,6 +150,52 @@
             "showText": true
           },
           "text": "Jedna z produkcji dla klubu Shooshh w Brighton. Zająłem się zarówno filmowaniem jak i montażem."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-g",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/WT8iBx4sipM",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "Kolejna samodzielna produkcja. Filmowanie oraz montaż."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-h",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/knT0-LJGwik",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "Jeszcze jedna produkcja dla Shooshh. Animacja w intro również mojego autorstwa.&nbsp;"
         },
         {
           "_tags": [
@@ -539,7 +585,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>Nazywam się Jan Szymański (lat 35) &nbsp;i chętnie podejmę pracę/płatny staż w charakterze <b>Motion Designera</b>. Na przestrzeni ostatnich 15-stu lat wykonywałem zawody związane z fotografią, edycją tekstu, zdjęć, filmu, a także projektowaniem grafiki (w tym wektorowej) na potrzeby marketingu. Stworzyłem samodzielnie kilka stron WWW. Posiadam dużą wrażliwość estetyczną, jestem kreatywny, szybko i chętnie się uczę. Niedawno wróciłem z Anglii i od kilku miesięcy zgłębiam tajniki programowania w zakresie Front End Developing'u. Studiuję online na <b>Codecademy.com,&nbsp;</b>Coursera.org,<b>&nbsp;courses.edx.org, </b>Stackoverflow.com,<b> W3schools.com</b>. Dotychczas zapoznałęm się z następującymi działami: <b>HTML 5, CSS3, Responsive Design, Sass, Angular JS 1.X, JavaScript, GitHub. </b>Aktualnie, bardzo zależy mi na pogłębieniu zdobytych informacji w jak najszerszym spektrum moich zainteresowań..&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Szukam pracodawcy u którego, będę mógł robić to co kocham, czyli zajmować się edycją obrazu, licząc za razem na <b>długotrwałą współpracę.</b>&nbsp;</span></p>"
+          "text": "<p>Nazywam się Jan Szymański (lat 35) &nbsp;i chętnie podejmę pracę/płatny staż w charakterze <b>Motion Designera</b>. Na przestrzeni ostatnich 15-stu lat wykonywałem zawody związane z fotografią, edycją tekstu, zdjęć, filmu, a także projektowaniem grafiki (w tym wektorowej) na potrzeby marketingu. Stworzyłem samodzielnie kilka stron WWW. Posiadam dużą wrażliwość estetyczną, jestem kreatywny, szybko i chętnie się uczę. Niedawno wróciłem z Anglii i od kilku miesięcy zgłębiam tajniki programowania w zakresie Front End Developing'u. Studiuję online na <b>Codecademy.com,&nbsp;</b>Coursera.org,<b>&nbsp;courses.edx.org, </b>Stackoverflow.com,<b> W3schools.com</b>. Dotychczas zapoznałęm się z następującymi działami: <b>HTML 5, CSS3, Responsive Design, Sass, Angular JS 1.X, JavaScript, GitHub. </b>Aktualnie, bardzo zależy mi na pogłębieniu zdobytych informacji w jak najszerszym spektrum moich zainteresowań.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Szukam pracodawcy u którego, będę mógł robić to co kocham, czyli zajmować się edycją obrazu, licząc za razem na <b>długotrwałą współpracę.</b>&nbsp;</span></p>"
         },
         {
           "_tags": [
@@ -646,6 +692,685 @@
           ],
           "_name": "map2",
           "_anchor": "map2-7",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "googleMap": {
+              "address": "01-771 Warszawa",
+              "placeId": "ChIJWQZ5pbjLHkcR3UWOuhMoKZ0",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        }
+      ]
+    },
+    "motion_eng": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".navbar-toggler": {
+              "color": "#fac51c"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fac51c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fac51c"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fac51c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-i",
+          "_params": {
+            "bgColor": "#28324e",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#fac51c",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/yan-close-124x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "user",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#msg-box5-2\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CV Jan Szymański</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpTVY5WDRhWWZma0k\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>DRUKUJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpdnFqMk9kUWd3TU0\" target=\"_blank\"><span class=\"mbri-print mbr-iconfont mbr-iconfont-btn\"></span>PRINT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">WERSJA POLSKA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"motion_eng\">ENGLISH VERSION</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-j",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/Dz8X_AT_fmQ",
+              "autoplay": "on",
+              "loop": false,
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "One of my production for Shooshh (Brighton/UK). Filming and editing. &nbsp;Please SCROLL DOWN for CV."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-k",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/WT8iBx4sipM",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "Another production for artist Menza. Filming plus editing."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-l",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/knT0-LJGwik",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "One more video for Shooshh. Filming, editing, animating intro."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "color": "#fac51c"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/visual-skills-2000x1006-1.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sompting-2-2000x1125-1.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/ikony-poziomo-2000x941-1.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "<br><br><br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Grafik&nbsp;</span><br>Web Developer",
+                "showText": false,
+                "text": "Pracowałem nad wieloma projektami Webowymi. Stworzyłem kilka stron oraz wiele grafik do stron WWW. Aktualnie, od kilku miesięcy pogłębiam swoją wiedzię w zakresie budowy stron WWW w HTML 5, CSS, SASS oraz programowania obiektowego w JavaScript.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/4pople-2000x986.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/krewetka-2000x1125-1.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.4",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "<br><br><br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Rysownik</span><br>",
+                "showText": false,
+                "text": "Chociaż nie nazwałbym się rysownikiem, to posiadam wyobraźnię i lubię rysować.&nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/katalog-2000x1006.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/packshot-2000x983-1.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "<br><br><br><br><br>Fotograf",
+                "showText": false,
+                "text": "Mam ponad 15-letnie doświadczenie w robieniu zdjęć, a także w edycji obrazu. W swojej karierze zajmowałem się robieniem i przygotowaniem zdjęć do druku w czasopismach jak i wydruk wielkoformatowy. Pracowałem z modelkami, packshotami, krajobrazem oraz mam spore doświadczenie w fotografii sportowej.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/duon-1-2000x1125.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/brighton-2000x986.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/web-skills-2000x912.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/ritm-marinero-2000x1006-1.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.5",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><span style=\"font-size: 4.39rem; line-height: 1.1;\">Grafik&nbsp;</span><br>Web Developer",
+                "showText": false,
+                "text": "<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/rudys-1-2000x1125-1.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/wahkiki-1-2000x1125-1.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/winiary-2000x986.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/play-2000x986.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/nona-2000x1125-1.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/rutino-2000x853.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/akti-2000x986.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sompting1-2000x986.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "slider-m",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#28324e"
+            },
+            "P": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "msg-box5-u",
+          "_params": {
+            "imageSize": "22",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ja-czb-1400x1944-1.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-size: 3rem; line-height: 1.1;\"><br>PHOTOGRAPHER</span><span style=\"font-size: 3rem; line-height: 1.1;\"><br></span>GRAPHIC DESIGNER&nbsp;<br>MOTION DESIGNER / EDITOR",
+          "text": "<b>Dear Sirs!&nbsp;<br></b>Welcome to my online&nbsp;<b>CV.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "content1-v",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>My name is Jan Szymański (35) and I'm seeking for work / paid internship as <b>Motion Designer / Editor</b>.  Over the last 15 years I have been doing photography, text, image, motion picture editing, graphic design for marketing,  and also created several web pages. I have a great aesthetic sensitivity and I am creative. I'm happy to learn new skills and I gain knowledge quickly. &nbsp;Recently, I came back  from England and I have been learning Front End Developing for some months now. I am studying online at <b>Codecademy.com</b>, Coursera.org, courses.edx.org, Stackoverflow.com, W3schools.com. So far I explored the following areas: <b>HTML 5, CSS3, Responsive Design, Sass, Angular JS 1.X, JavaScript, GitHub</b>.  At the moment, I would like to deepen my acquired knowledge whiting motion design. I am looking for a position  where, I will be able to practically apply and broaden my skills.  I count for <b>long-term cooperation</b>.&nbsp;</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "DIV": {
+              "color": "#28324e"
+            }
+          },
+          "_anchor": "content6-w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text1": "<div><b>WORK EXPERIENCE:</b></div><div><b><br></b></div><ul><li><b style=\"font-size: 1.07rem; line-height: 1.5;\">2012 - 2015 </b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Graphic designer, photographer, video producer for Shooshh (Brighton, UK) - my responsibilities included designing posters, logos, stickers, banners, video production. I have built several websites.</span></li></ul><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><ul><li><b style=\"font-size: 1.07rem; line-height: 1.5;\">2010 -2012 </b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Working as a graphic artist / photographer for Decare (company distributing exotic food). My responsibilities included creating advertisements, packshot images, POS, designing logos and packages (including boxes), presentations, catalogs, banners and printing materials (DTP).<br><br></span></li><li><b>2007 - 2009 </b>Work for Valkea Media - composition / breaking magazine Aktivist, concert photography, I was the author of many covers.  </li></ul><div><b><br></b></div><ul><li><b>2006 - 2007 </b>Red Bull Polska Sp. Zoo - Event / PR Manager - organization of sports events according to marketing guidelines, including visual form. PR cooperation with the media, updating information on the web. Collaboration and care for athletes. Budget reports.</li></ul><div><b><br></b></div><ul><li><b>  2000 - 2005 </b>Initially, the editorial secretary, then the editor-in-chief of the \"DosDedos\" magazine. Collaborating with the marketing department, coordinating the work of other editors, editing and correcting texts, advertising sales and PR activities.&nbsp;</li></ul><div> &nbsp;</div>",
+          "text2": "<div></div><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">EDUCATION:<br></b><br></p><ul><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>  2017 - Currently </b>Codecademy.com, Coursera.org, Courses.edx.org, Stackoverflow.com, W3schools.com. Learning programming online in English<br><br></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">.<b>  2006 - 2008 </b>Academy of Photography in Warsaw Advanced Course - I learned to: work in a studio, operate professional studio equipment (lamps, generators), use a light meter, use different types of light to achieve specific effects<br><br></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>  2002 - 2005 </b>University of Communication and Social Sciences in Warsaw (Jerzy Giedroyc) political science (specialization in journalism) - bachelor degree<br>.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>  2000 - 2002 </b>Study of Stenotypes and Foreign Languages I learn a quick typing on the keyboard, correct writing correspondence in foreign languages ​​(English, German).<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br><b>OTHER:  <br><br></b></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sports (running, cycling / longboarding, swimming) <br></span></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">I have a driving license of category B. WOPR Rescue Patent</span></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Dell i7 Laptop (8GB Ram, 256 SSD) + Adobe CS 6 </span></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Canon 5D Mark II / 7D + 100/150mm f / 2 + 28/42mm f / 1.8 </span></span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Very good command in </b>spoken and written<b> English  </b></span><br></span></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-size": "14px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content2-x",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>* I agree to the use of the information given in accordance with the Personal Data Protection Act of 29.08.97, Dz. U. 133/97, item. 883.   </blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#28324e",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "form1-y",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "I'd be glad to answer any further questions on a meeting.<br>mobile:&nbsp;<a href=\"tel://532-32-88-01\">+(48) 532 32 88 01</a><br>",
+          "form": {
+            "action": "an.icon.pictures@gmail.com",
+            "alerts": {
+              "success": "Thank you for filling up the form.\nHave a great day!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "COMPANY NAME"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "EMAIL"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "TELEPHONE"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "MESSAGE"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-s",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 4,

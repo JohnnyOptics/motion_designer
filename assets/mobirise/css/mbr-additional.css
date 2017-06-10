@@ -505,3 +505,96 @@ h6,
   color: #28324e;
   font-size: 36px;
 }
+
+#ext_menu-i .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-i .navbar-caption {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+}
+#ext_menu-i .navbar-toggler {
+  color: #fac51c;
+}
+#ext_menu-i .close-icon::before,
+#ext_menu-i .close-icon::after {
+  background-color: #fac51c;
+}
+#ext_menu-i .link,
+#ext_menu-i .dropdown-item {
+  color: #fac51c;
+}
+#ext_menu-i .link {
+  font-size: 0.95rem;
+}
+#ext_menu-i .dropdown-item,
+#ext_menu-i .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#ext_menu-i .link:hover,
+#ext_menu-i .dropdown-item:hover,
+#ext_menu-i .link:focus,
+#ext_menu-i .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-i .link[aria-expanded="true"],
+#ext_menu-i .dropdown-menu {
+  background: #171c2c;
+}
+#ext_menu-i .nav-dropdown-sm .link:focus,
+#ext_menu-i .nav-dropdown-sm .link:hover,
+#ext_menu-i .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-i .nav-dropdown-sm .dropdown-item:hover {
+  background: #232c44!important;
+}
+#ext_menu-i .navbar,
+#ext_menu-i .nav-dropdown-sm,
+#ext_menu-i .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-i .nav-dropdown-sm .dropdown-menu {
+  background: #28324e;
+}
+#ext_menu-i .bg-color.transparent .link {
+  color: #fac51c;
+  transition: none;
+}
+#ext_menu-i .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-i .bg-color.transparent.opened .link:hover,
+#ext_menu-i .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-i .link[aria-expanded="true"],
+#ext_menu-i .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#slider-m H2 {
+  color: #fac51c;
+}
+#slider-m P {
+  text-align: center;
+  color: #000000;
+}
+#msg-box5-u H3 {
+  color: #28324e;
+}
+#msg-box5-u P {
+  color: #28324e;
+}
+#content1-v P {
+  color: #28324e;
+}
+#content6-w DIV {
+  color: #28324e;
+}
+#content2-x BLOCKQUOTE {
+  font-size: 14px;
+  text-align: center;
+}
+#form1-y .form-control-label {
+  color: #232323;
+}
+#form1-y .mbr-section-title {
+  color: #28324e;
+  font-size: 36px;
+}
