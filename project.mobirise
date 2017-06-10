@@ -23,7 +23,11 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 35,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/shutter-512-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -108,7 +112,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/yan-close-124x128.png",
+              "src": "file:///C:/Users/xxx/AppData/Local/Mobirise.com/Mobirise/projectData/yan-close-124x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -787,7 +791,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/yan-close-124x128.png",
+              "src": "file:///C:/Users/xxx/AppData/Local/Mobirise.com/Mobirise/projectData/yan-close-124x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
