@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "motion designer",
-    "currentPage": "index.html",
+    "currentPage": "motion_eng",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -551,7 +551,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ja-czb-1400x1944.png",
+              "src": "@PROJECT_PATH@/assets/images/ja-okulary-1400x1939.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1230,7 +1230,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ja-czb-1400x1944-1.png",
+              "src": "@PROJECT_PATH@/assets/images/ja-okulary-1400x1939.png",
               "link": "",
               "alt": "",
               "title": "",
