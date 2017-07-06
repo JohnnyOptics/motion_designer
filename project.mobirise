@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "motion designer",
-    "currentPage": "index.html",
+    "currentPage": "motion_eng",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 35,
+    "uniqCompNum": 38,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -223,7 +223,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/visual-skills-2000x1006-1.png",
+                "image": "@PROJECT_PATH@/assets/images/visual-skills1-2000x1006.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -589,7 +589,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>Nazywam się Jan Szymański (lat 35) &nbsp;i chętnie podejmę pracę/płatny staż w charakterze <b>Motion Designera</b>. Na przestrzeni ostatnich 15-stu lat wykonywałem zawody związane z fotografią, edycją tekstu, zdjęć, filmu, a także projektowaniem grafiki (w tym wektorowej) na potrzeby marketingu. Stworzyłem samodzielnie kilka stron WWW. Posiadam dużą wrażliwość estetyczną, jestem kreatywny, szybko i chętnie się uczę. Niedawno wróciłem z Anglii i od kilku miesięcy zgłębiam tajniki programowania w zakresie Front End Developing'u. Studiuję online na <b>Codecademy.com,&nbsp;</b>Coursera.org,<b>&nbsp;courses.edx.org, </b>Stackoverflow.com,<b> W3schools.com</b>. Dotychczas zapoznałęm się z następującymi działami: <b>HTML 5, CSS3, Responsive Design, Sass, Angular JS 1.X, JavaScript, GitHub. </b>Aktualnie, bardzo zależy mi na pogłębieniu zdobytych informacji w jak najszerszym spektrum moich zainteresowań.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Szukam pracodawcy u którego, będę mógł robić to co kocham, czyli zajmować się edycją obrazu, licząc za razem na <b>długotrwałą współpracę.</b>&nbsp;</span></p>"
+          "text": "<p>Nazywam się Jan Szymański (lat 35) &nbsp;i chętnie podejmę pracę &nbsp;w charakterze <b>Motion Designera</b>. Na przestrzeni ostatnich 15-stu lat wykonywałem zawody związane z fotografią, edycją tekstu i obrazu (motion design) projektowaniem grafiki na potrzeby marketingu, składem czasopism, tworzeniem bannerów, POS, a także stron WWW. Posiadam dużą wrażliwość estetyczną i jestem kreatywny. Niedawno wróciłem <br>z Anglii i od kilku miesięcy uczę się zagadnień z zakresu Front End Developing'u. Studiuję online na&nbsp;<b>Codecademy.com</b>, Coursera.org, courses.edx.org, Stackoverflow.com, W3schools.com. Dotychczas zgłębiłem wiedzę z następujących działów:&nbsp;<b>HTML 5, CSS3, Responsive Design, JavaScript</b>. Interesuje mnie również&nbsp;<b>jQuery</b>.&nbsp;Posiadam umiejętność szybkiego uczenia się, a poszerzanie własnych kompetencji sprawia mi przyjemność. Szukam pracodawcy u którego, w ciągu nadchodzących lat, będę mógł praktycznie zastosować i poszerzyć zdobytą wiedzę.&nbsp;<b>Liczę na długotrwałą współpracę.</b></p>"
         },
         {
           "_tags": [
@@ -707,6 +707,54 @@
               "stateDetails": ""
             }
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-z",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
@@ -901,8 +949,8 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/visual-skills-2000x1006-1.png",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/visual-skills1-2000x1006.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -960,7 +1008,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/krewetka-2000x1125-1.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1268,7 +1316,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>My name is Jan Szymański (35) and I'm seeking for work / paid internship as <b>Motion Designer / Editor</b>.  Over the last 15 years I have been doing photography, text, image, motion picture editing, graphic design for marketing,  and also created several web pages. I have a great aesthetic sensitivity and I am creative. I'm happy to learn new skills and I gain knowledge quickly. &nbsp;Recently, I came back  from England and I have been learning Front End Developing for some months now. I am studying online at <b>Codecademy.com</b>, Coursera.org, courses.edx.org, Stackoverflow.com, W3schools.com. So far I explored the following areas: <b>HTML 5, CSS3, Responsive Design, Sass, Angular JS 1.X, JavaScript, GitHub</b>.  At the moment, I would like to deepen my acquired knowledge whiting motion design. I am looking for a position  where, I will be able to practically apply and broaden my skills.  I count for <b>long-term cooperation</b>.&nbsp;</p>"
+          "text": "<p>My name is Jan Szymański (35) and I'm seeking for work as a&nbsp;<b>Motion Designer / Editor</b>. Over  the last 15 years I have been involved in photography, motion graphics, graphic design for marketing, magazine design, banner design, POS, and web design. I have a great aesthetic sensitivity and I am creative. I recently came back from England and for a last few months I have been learning Front End Developing issues.  I'm studying online at <b>Codecademy.com</b>, Coursera.org, courses.edx.org, Stackoverflow.com, W3schools.com.  So far I have explored the following areas: <b>HTML5, CSS3, Responsive Design, JavaScript.</b> I'm also interested  in <b>jQuery.</b> I have the ability to learn quickly, and I enjoy to expand my competence. I'm looking for a position, where I will be able to practically apply and broaden my knowledge.<b> I count on long-term cooperation.&nbsp;</b></p>"
         },
         {
           "_tags": [
